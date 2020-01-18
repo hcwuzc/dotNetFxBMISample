@@ -20,6 +20,7 @@ namespace HealthMgr
         public float Calculate()
         {
             //20200118_Edit
+            //20200118_Edit2
             float result = 0;
             //將 float 改成 int 試試看
             float height = (int)Height / 100;
